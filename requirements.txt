@@ -1,7 +1,7 @@
 3to2==1.1.1
 alembic==0.9.6
 asn1crypto==0.24.0
-Babel==2.5.1
+Babel==2.9.1
 backports.functools-lru-cache==1.4
 blinker==1.4
 certifi==2017.7.27.1
