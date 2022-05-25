@@ -36,7 +36,7 @@ olefile==0.45.1
 Pillow==5.1.0
 pycrypto==2.6.1
 pygobject==3.26.1
-PyJWT==1.5.3
+PyJWT==2.4.0
 pyparsing==2.2.0
 python-dateutil==2.6.1
 python-dotenv==0.7.1
